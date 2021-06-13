@@ -1,4 +1,4 @@
-[[![Build Status](https://travis-ci.com/snoreoh/lab8.svg?branch=master)](https://travis-ci.com/snoreoh/lab8)
+[![Build Status](https://travis-ci.com/snoreoh/lab8.svg?branch=master)](https://travis-ci.com/snoreoh/lab8)
 
 # Homework. Lab #8
 
